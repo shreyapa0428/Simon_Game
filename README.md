@@ -1,3 +1,3 @@
 # Simon_Game
 ##The memory Game
-https://shreyapa0428.github.io/Simon_Game/
+<link src="https://shreyapa0428.github.io/Simon_Game/">Click here to play the game!</link>
